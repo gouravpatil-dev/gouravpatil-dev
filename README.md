@@ -28,4 +28,4 @@ building projects across web development and software engineering.
 
 ## Connect
 [Portfolio](https://gouravpatil.vercel.app) ·
-[LinkedIn](www.linkedin.com/in/gourav-nitin-patil)
+[LinkedIn](https://www.linkedin.com/in/gourav-nitin-patil)
