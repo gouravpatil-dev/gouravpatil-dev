@@ -13,8 +13,10 @@ building projects across web development and software engineering.
 ## Tech Stack
 **Languages**
 `C` · `C++` · `Java` · `Python` · `JavaScript`
+
 **Web**
 `HTML` · `CSS` · `React` · `Vite`
+
 **Tools**
 `Git` · `GitHub` · `VS Code` · `Vercel`
 
