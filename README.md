@@ -1,11 +1,9 @@
 # Hi, I'm Gourav Patil!👋
-### Computer Science student @ COEP Technological University
 
 I build software, explore how things work, and learn by building.
 
 Currently focused on improving my foundations in computer science while
 building projects across web development and software engineering.
-
 
 ## About Me
 - Computer Science student at COEP Technological University, Pune
